@@ -1,0 +1,141 @@
+= Recommended Self-Paced Learning Paths by Function
+
+NOTE: A customized enablement path for content creators and users will need to be tailored with onboarding, foundational need-to-know, and how-to information specific to their needs.
+
+[%header,cols="^.^26,^.^14,^.^12,^.^12,^.^12,^.^12,^.^12",width="100%",stripes=even]
+.Ansible Enablement and Adoption Program.
+|===
+|Learning Path |Level |Business Leaders |Platform Admins |Network Admins |Storage Admins |Security Admins
+|https://www.redhat.com/en/engage/redhat-ansible-automation-20220412[Change is upon us. Automation can help.]
+|Basic |(+) |(+) |(+) |(+) |(+)
+
+|https://www.redhat.com/en/interactive-labs/write-your-first-playbook[Write your first playbook]
+|Basic | |(+) |(+) |(+) |(+)
+
+|https://www.redhat.com/en/interactive-labs/get-started-ansible-navigator[Get started with ansible-navigator]
+|Basic | |(+) |(+) |(+) |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/getting-started-ansible-builder?token=em_prdwsuxj78anshdl[Get started with ansible-builder]
+|Basic | |(+) |(+) |(+) |(+)
+
+|https://www.redhat.com/en/interactive-labs/network-automation-basics-first-playbook[Network automation basics: First playbook]
+|Basic | | |(+) | |
+
+|https://play.instruqt.com/embed/redhat/tracks/network-lab-1?token=em_bkpb1mcbod8qprrg[Network automation: Backup and Restore]
+|Basic | | |(+) | |
+
+|https://www.redhat.com/en/interactive-labs/network-automation-basics-resource-modules[Network automation basics: Resource Modules]
+|Basic | | |(+) | |
+
+|https://www.redhat.com/en/interactive-labs/network-automation-basics-facts[Network automation basics: Facts]
+|Basic | | |(+) | |
+
+|https://play.instruqt.com/embed/redhat/tracks/network-oper-tasks?token=em_sH26Rq5FE7u1WeWC[Red Hat Ansible Automation Platform for network administrators]
+|Intermediate | | |(+) | |
+
+|https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview[Ansible Basics: Automation Technical Overview (DO007)]
+|Basic | |(+) |(+) |(+) |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/hub-managing-user-access?token=em_sqTC_YqGLwBSDT5r[Manage User access and content policies using private automation hub]
+|Intermediate | |(+) | | |
+
+|https://www.redhat.com/en/services/training/do417-microsoft-windows-automation-red-hat-ansible[Microsoft Windows Automation with Red Hat Ansible (DO417)]
+|Intermediate | |(+) | | |
+
+|https://www.redhat.com/en/services/training/rh294-red-hat-linux-automation-with-ansible[Red Hat Enterprise Linux Automation with Ansible (RH294)]
+|Intermediate | |(+) |(+) |(+) |(+)
+
+|https://www.redhat.com/en/services/training/rh358-red-hat-services-management-automation[Red Hat Services Management and Automation (RH358)]
+|Advanced | |(+) |(+) | |
+
+|https://www.redhat.com/en/services/training/do457-ansible-network-automation[Red Hat Ansible for Network Automation (DO457)]
+|Intermediate | | |(+) | |
+
+|https://www.redhat.com/en/services/training/do374-developing-advanced-automation-red-hat-ansible-automation-platform[Developing Advanced Automation with Red Hat Ansible Automation Platform (DO374)]
+|Advanced | |(+) |(+) | |(+)
+
+|https://www.redhat.com/en/services/training/do467-managing-enterprise-automation-red-hat-ansible-automation-platform[Managing Enterprise Automation with Red Hat Ansible Automation Platform (DO467)]
+|Advanced | |(+) | | |
+
+|https://www.redhat.com/en/interactive-labs/get-started-event-driven-ansible-rulebooks[Get started with Event-Driven Ansible and Ansible rulebooks]
+|Intermediate | |(+) | | |
+
+// |https://www.youtube.com/watch?v=EKf3u1QdpNo[Migration from AAP 1.2 to Ansible Automation Platform 2: Side by side upgrade]
+// |Advanced | |(+) | | |
+
+|https://www.youtube.com/watch?v=gzgSJsINCno[Ansible Security Automation Demo]
+|Basic |(+) |(+) | | |(+)
+
+|https://www.youtube.com/watch?v=q2ZnCC4h2Wo[Ansible Security Automation]
+|Intermediate |(+) |(+) |(+) | |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/terraform-ansible-update?token=em_Lj9g2-_VJBGzMic1[Terraform and Red Hat Ansible Automation Platform]
+|Advanced | |(+) | | |
+
+|https://play.instruqt.com/embed/redhat/tracks/network-lab-2?token=em_N9LMfM_v5Ufl6GKy[Network automation: Infrastructure awareness]
+|Intermediate | |(+) |(+) | |
+
+|https://play.instruqt.com/embed/redhat/tracks/ansible-network-automation-basics---lab-4?token=em_BDB9SUUL2LM_TP7J[Network automation basics: Surveys]
+|Basic | |(+) |(+) | |
+
+|https://play.instruqt.com/embed/redhat/tracks/private-automation-hub-signing?token=em_UTCtnLfGucfaOS0_[Sign Ansible Content Collections with private automation hub]
+|Advanced | |(+) | | |
+
+|https://play.instruqt.com/embed/redhat/tracks/controller-101?token=em_mUfT4xw1TXybXnBr&show_challenges=true[Introduction to automation controller]
+|Intermediate | |(+) | | |
+
+|https://play.instruqt.com/embed/redhat/tracks/devops-controller?token=em_CThk70fjjSxb1wnt[DevOps & CI/CD with automation controller]
+|Advanced | |(+) | | |
+
+|https://www.youtube.com/watch?v=mIrwa6T67Ig[Ansible Patching and Compliance Automation]
+|Intermediate |(+) |(+) |(+) | |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/sign-verify-ansible-projects?token=em_Gp14R9eDyqDCt7d2[Sign and verify projects with Red Hat Ansible Automation Platform]
+|Intermediate | |(+) | | |
+
+|https://play.instruqt.com/embed/redhat/tracks/cloud-optimization?token=em_0h2ed0VTvBXyHNA6[Hybrid cloud automation: Infrastructure automation]
+|Intermediate | |(+) |(+) |(+) |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/cloud-operations?token=em_785MP3rpLI7oAW1Y[Hybrid cloud automation: Cloud operations]
+|Intermediate | |(+) |(+) |(+) |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/cloud-visibility?token=em_IYvE6P3BoPg-Fo50[Hybrid cloud automation: Infrastructure visibility]
+|Intermediate | |(+) |(+) |(+) |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/eda-gitops?token=em__C74PAmX2rePq7Kk[GitOps with Event-Driven Ansible]
+|Intermediate | |(+) | | |
+
+|https://play.instruqt.com/embed/redhat/tracks/aap-ocp-install?token=em_D0egZIRNCdKJKqw-[Install Red Hat Ansible Automation Platform on Red Hat OpenShift]
+|Advanced | |(+) |(+) |(+) |(+)
+
+|https://play.instruqt.com/embed/redhat/tracks/getting-started-mesh?token=em_eGpRMNjJl3q9Lp7S[Get started with automation mesh]
+|Advanced | |(+)|(+) | |
+
+|https://play.instruqt.com/embed/redhat/tracks/getting-started-servicenow-automation?token=em_5ktpLJWtzpbqcDyM[Get started with ServiceNow automation]
+|Advanced | |(+) | | |
+
+|https://play.instruqt.com/embed/redhat/tracks/getting-started-edge-lab?token=em_VX7rLMJ7-5Hf8WoX[Get started with Red Hat Ansible Automation Platform and edge]
+|Advanced | |(+) |(+) | |
+
+// |https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4/html/red_hat_ansible_automation_platform_planning_guide[Red Hat Ansible Automation Platform Planning Guide]
+// |Intermediate |(+) |(+) |(+) |(+) |(+)
+
+|https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/2.4[Product Documentation for Red Hat Ansible Automation Platform 2.4]
+|Intermediate |(+) |(+) |(+) |(+) |(+)
+
+|https://www.redhat.com/en/blog/implementing-security-benchmarks-red-hat-ansible-automation-platform[Implementing security benchmarks with Red Hat Ansible Automation Platform]
+|Basic | (+) |(+) | | |(+)
+
+|https://www.youtube.com/watch?v=sSi41ciev20[Detecting Network Compliance Via The Ansible Automation Platform]
+|Intermediate | |(+) |(+) | |(+)
+
+|https://www.youtube.com/watch?v=7-iq1aVeg6I[Resize Windows Disk On VMWare Via Ansible Automation Platform]
+|Intermediate | |(+) | |(+) |
+
+// |https://bluexp.netapp.com/blog/aws-fsxo-blg-automating-aws-fsx-for-ontap-using-red-hat-ansible-automation-platform[Automating AWS FSx for ONTAP Using Red Hat Ansible Automation Platform]
+// |Intermediate | | | |(+) |
+
+|https://ansible.github.io/slides/ebooks[Ansible e-book finder] | Intermediate | (+) | (+) | (+) | (+) | (+)
+
+|https://ansible.github.io/slides/datasheets[Ansible collateral finder] | Intermediate | (+) | (+) | (+) | (+) | (+)
+|===

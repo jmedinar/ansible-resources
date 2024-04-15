@@ -1,0 +1,25 @@
+= GitOps Enablement Resources
+
+[%header,cols="^.^26,^.^14,^.^12,^.^12,^.^12,^.^12,^.^12",width="100%", stripes=even]
+.GitOps Resources
+|===
+|Learning Path |Level |Business Leaders |Platform Admins |Network Admins |Storage Admins |Security Admins
+| https://developers.redhat.com/e-books/path-gitops[The Path to GitOps]                                                    | Basic        | (+) | (+) | (+) | (+) | (+)
+| https://git-scm.com/book/en/v2[Pro Git]                                                                                  | Intermediate | (+) | (+) | (+) | (+) |
+| https://codefresh.io/learn/gitops/[What Is GitOps? How Git Can Make DevOps Even Better]                                  | Basic        | (+) | (+) | (+) | (+) | (+)
+| https://codefresh.io/learn/gitops/gitops-vs-devops/#section-how-does-gitops-address-devops-challenges[GitOps vs. DevOps: How GitOps Makes DevOps Better] | Basic        | (+) | (+) | | |
+| https://www.gitkraken.com/blog/what-is-gitops[What is GitOps?]                                                           | Basic        | (+) | (+) | | |
+| https://www.redhat.com/architect/illustrated-guide-gitops[An illustrated guide to GitOps]                                | Basic        | (+) | (+) | | |
+| https://developers.redhat.com/articles/2022/07/20/git-workflows-best-practices-gitops-deployments[Git best practices: Workflows for GitOps deployments]  | Intermediate | (+) | (+) | | |
+| https://www.harness.io/blog/gitops-best-practices[6 Actionable GitOps Best Practices to Help You Get Started]            | Basic        | (+) | (+) | | |
+| https://spot.io/resources/gitops/[Understanding GitOps: Principles, Workflow, and Deployment Types]                      | Basic        | (+) | (+) | | |
+| https://code.visualstudio.com/docs/sourcecontrol/overview[Using Git source control in VS Code]                           | Basic        | (+) | (+) | (+) | (+) | (+)
+| https://www.redhat.com/architect/gitops-implementation-patterns[Comparing GitOps implementation patterns: Pros and cons] | Intermediate | (+) | (+) | | |
+| https://about.gitlab.com/learn/[GitLab Learn]                                                                            | Intermediate | | (+) | (+) | (+) | (+)
+| https://skills.github.com/[GitHub Skills]                                                                                | Intermediate | | (+) | (+) | (+) | (+)
+| https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud[Learn Git with Bitbucket Cloud]                   | Intermediate | | (+) | (+) | (+) | (+)
+| https://help.gitkraken.com/gitkraken-client/guide/[Learning Git with GitKraken]                                          | Intermediate | | (+) | (+) | (+) | (+)
+| https://help.gitkraken.com/gitkraken-client/guide/[GitLens - Git supercharged - VS Code Extension]                       | Basic        | | (+) | (+) | (+) | (+)
+| https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory[Git History - VS Code Extension]             | Basic        | | (+) | (+) | (+) | (+)
+| https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph[Git Graph - VS Code Extension]                    | Basic        | | (+) | (+) | (+) | (+)
+|===
